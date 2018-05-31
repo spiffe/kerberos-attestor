@@ -4,7 +4,7 @@ Kerberos-Attestor
 Overview
 --
 
-The Kerberos-Attestor is a plugin for the [SPIRE][spire] server and agent that allows SPIRE to automatically attest nodes that are joined to a domain backed by the [Kerberos authentication protocol][kerberos].  SPIRE is an open-source implementation of the [SPIFFE][spiffe], which is a set of standards to provide authentication and trust to disparate micro-services operating in hertrogeneous cloud-native environments.  The predominant on-premise authentication protocol is Kerberos through Active Directory, and with the Kerberos-Attestor, environments backed by SPIRE can provide trust leveraging existing enterprise identity stacks.
+The Kerberos-Attestor is a plugin for the [SPIRE][spire] server and agent that allows SPIRE to automatically attest nodes that are joined to a domain backed by the [Kerberos authentication protocol][kerberos].  SPIRE is an open-source implementation of the [SPIFFE][spiffe], which is a set of standards to provide authentication and trust to disparate micro-services operating in heterogeneous cloud-native environments.  The predominant on-premise authentication protocol is Kerberos through Active Directory, and with the Kerberos-Attestor, environments backed by SPIRE can provide trust leveraging existing enterprise identity stacks.
 
 Base SVID SPIFFE ID Format
 --
